@@ -1,0 +1,22 @@
+{
+    "gotoSymbolStack.currentStackPosition": 2,
+    "gotoSymbolStack.maxStackPosition": 2,
+    "gotoSymbolStack.filePositionInfo": [
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\build\\web\\flutter.js",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 38,
+                "character": 26
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\build\\web\\flutter.js",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 93,
+                "character": 28
+            }
+        }
+    ]
+}
