@@ -30809,7 +30809,7 @@ A.yt.prototype={
 Db(a){this.ar(new A.O4(this,a))},
 Di(a){this.ar(new A.O5(this,a))},
 L(a,b){var s=null,r=A.kD(this.d,200,s),q=this.e
-return new A.q5(new A.rh(new A.oy(B.Gq,new A.Ey(s,s,1/0,56),s),A.Jd(B.a_,A.abC(A.a([B.CI,r,B.CH,new A.mk("Heading 1","H1",1,q,s),B.r6,new A.mk("Heading 2","H2",2,q,s),B.r6,new A.mk("Heading 3","H3",3,q,s)],t.E),B.dD,B.pq),s,s,s,s,s),s),"My First App",s)}}
+return new A.q5(new A.rh(new A.oy(B.Gq,new A.Ey(s,s,1/0,56),s),A.Jd(B.a_,A.abC(A.a([B.CI,r,B.CH,new A.mk("Heading 1","H1",1,q,s),B.r6,new A.mk("Heading 2","H2",2,q,s),B.r6,new A.mk("Heading 3","H3",3,q,s)],t.E),B.dD,B.pq),s,s,s,s,s),s),"My First Web App",s)}}
 A.O4.prototype={
 $0(){this.a.e=this.b},
 $S:0}
